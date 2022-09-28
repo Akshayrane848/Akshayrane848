@@ -63,12 +63,12 @@ Hi, I'm **AKSHAY RANE**, a passionate **JAVA BACK-END DEVELOPER**  from india, c
 
 <h2> Github Profile Review:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunprazad001&layout=compact&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)](https://github.com/safalalikhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayrane848&layout=compact&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)](https://github.com/safalalikhan/github-readme-stats)
 
   
-![Arun's' Github Stats](https://github-readme-stats.vercel.app/api?username=arunprazad001&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
+![Akshay's' Github Stats](https://github-readme-stats.vercel.app/api?username=Akshayrane848&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arunprazad001&theme=dark&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshayrane848&theme=dark&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
 
 
 
