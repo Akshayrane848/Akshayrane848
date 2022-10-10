@@ -1,82 +1,51 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I am Akshay Rane</h1>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
+</div>
 
-<!--
-**Akshayrane848/Akshayrane848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Summary
+A Passionate Developer,Who loves to create beautiful and functional websites.Proficient in Web Development, HTML, CSS, JavaScript, Java,Data Structure And Algorithms. Seeking to further improve skills as the future full stack developer at Atmospheric Solutions.Passionate to learn new technology, new things to explore and want to improve my skills.
 
 
+# 💫 About Me:
+<br>
+👯 I’m looking to collaborate on Good Tech Skills<br>
+🌱 I’m currently learning Full Stack Web Development<br>
+💬 Ask me about Coding...<br>
+👯 Interested in backend technologies....<br>
+👯 Self Motivated<br>
+⚡ Quick learner<br>
+💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+📫 How to reach me: akshayrane848@gmail.com <br>
 
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1-Qdeqsw34UZdIgXRRQtEzMUUT9QorZGb/view?usp=sharing)<br>
 
+Want to know more about me? [Check out My Portfolio](https://Akshayrane848.github.io/)
 
-<br />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_khiladi_848/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-rane-65289b224/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/akshay.rane.92560/) 
 
-Hi, I'm **AKSHAY RANE**, a passionate **JAVA BACK-END DEVELOPER**  from india, currently studying @ **Masai School**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love collabrating on intetresting and challenging projects. I have a keen interest in learing new languages.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akshayrane848&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akshayrane848&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayrane848&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akshayrane848&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🌱 Ex-NIU student.
-
-- 👨‍💻 Checkout my portfolio [My Portfolio](https://Akshayrane848.github.io/#)
-
-
-- 💬 Ask me about ***java , spring boot , javascript***
-
-- 📫 How to reach me **akshayrane848@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-Qdeqsw34UZdIgXRRQtEzMUUT9QorZGb/view?usp=sharing)
-- ⚡ My interests include playing harmonium and drawing.
-
-**Languages and Tools**  
-
-<img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-
-<img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-
-<img align="left" alt="MySQL" width="26px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
-<img align="left" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-
-<img align="left" height="40" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" height="40" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" height="40" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+---
+[![](https://visitcount.itsvg.in/api?id=Akshayrane848&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
 
-
-<br />
-<br />
-<br />
-
-
-<h2> Github Profile Review:</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayrane848&layout=compact&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)](https://github.com/safalalikhan/github-readme-stats)
-
-  
-![Akshay's' Github Stats](https://github-readme-stats.vercel.app/api?username=Akshayrane848&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshayrane848&theme=dark&count_private=true&bg_color=0d1116&title_color=F7ED1B&text_color=a4aacb&icon_color=F7ED1B)
-
-
-
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />**Lets Get Connected** 
-
-<a href="https://www.linkedin.com/in/akshay-rane-65289b224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozakir178" height="30" width="40" /></a>
-<a href="https://www.facebook.com/akshay.rane.92560/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mozakir178" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mr_khiladi_848/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="immature_poet_zakir" height="30" width="40" /></a>
-
-
+<!---
+Akshayrane848/Akshayrane848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
