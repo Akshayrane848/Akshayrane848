@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
 
 ### Summary
-A Passionate Developer,Who loves to create beautiful and functional websites.Proficient in Web Development, HTML, CSS, JavaScript, Java,Data Structure And Algorithms. Seeking to further improve skills as the future full stack developer at Atmospheric Solutions.Passionate to learn new technology, new things to explore and want to improve my skills.
+A Passionate Developer, Who loves to create beautiful and functional websites. Proficient in Web Development, HTML, CSS, JavaScript, Java, Data Structure, And Algorithms. Seeking to further improve skills as the future full stack developer at Atmospheric Solutions. I am passionate to learn new technology, exploring new things, and improving my skills.
 
 
 # 💫 About Me:
