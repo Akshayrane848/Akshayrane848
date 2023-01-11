@@ -21,7 +21,7 @@ A Passionate Developer, Who loves to create beautiful and functional websites. P
 
 📫 How to reach me: akshayrane848@gmail.com <br>
 
-⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1mu7EO0m1e9rtgFX1t0QepD-pkBvX2jbt/view?usp=sharing)<br>
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1Fwio3uLUlkogfbGPqBC5dM8CD2UjK0Rr/view?usp=sharing)<br>
 
 Want to know more about me? [Check out My Portfolio](https://Akshayrane848.github.io/)
 
